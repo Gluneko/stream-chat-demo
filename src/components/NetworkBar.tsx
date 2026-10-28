@@ -32,6 +32,7 @@ export function NetworkBar({ mode, onMode, network, onNetwork, openai, onOpenai 
         </>
       )}
       <a className="muted" href="https://gluneko.github.io/Gluneko/me/" style={{ marginLeft: 'auto' }}>← 主页</a>
+      <a className="muted" href="https://gluneko.github.io/Gluneko/me/chat-vue/">Vue 3 版</a>
     </div>
   );
 }
